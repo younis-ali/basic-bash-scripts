@@ -1,0 +1,17 @@
+Server Report
+-------------
+Hostname: anonymous
+Kernel Version: 6.2.0-26-generic
+Uptime: up 5 days, 19 hours, 49 minutes
+Architecture: x86_64
+Memory:
+  Total: 15Gi
+  Used: 4.3Gi
+  Available: 9.9Gi
+CPU:
+  Model: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+  Cores: 4
+  Load Average: 0.70,0.96,0.95
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       123G   59G   57G  51% /
